@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">MyShopPal</string>
+    <string name="myshoppal">MyShopPal</string>
+
+    <string name="content_description">image</string>
+    <string name="title_login">LOGIN</string>
+    <string name="et_hint_email_id">Email ID</string>
+    <string name="et_hint_password">Password</string>
+    <string name="lbl_forgot_password">Forgot Password?</string>
+    <string name="btn_lbl_login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register"><u>Register</u></string>
+
+    <string name="create_an_account">CREATE AN ACCOUNT</string>
+    <string name="hint_firstname">FirstName</string>
+    <string name="et_hint_firstname">FirstName</string>
+    <string name="et_hint_secondname">SecondName</string>
+    <string name="et_hint_email">Email Id</string>
+    <string name="et_hint_R_password">Password</string>
+    <string name="et_hint_c_password">confirm Password</string>
+    <string name="btn_lbl_register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login"><u>Login</u></string>
+    <string name="iagree">I Agree To The <u>Terms And Condition</u></string>
+
+
+    <string name="err_msg_enter_first_name">please enter firstname</string>
+    <string name="err_msg_enter_second_name">please enter secondname</string>
+    <string name="err_msg_enter_email">please enter email</string>
+    <string name="err_msg_enter_password">please enter password</string>
+    <string name="err_msg_enter_confirmpassword">please enter confirmpassword</string>
+    <string name="err_msg_password_and_confirmpassword_mismatch">password and confirmpassword does not match</string>
+    <string name="err_msg_agree_terms_and_condition">Agree to terms and condition</string>
+    <string name="registry_successfully">Thanks for register!</string>
+
+    <string name="please_wait">Please Wait &#8230;</string>
+
+    <string name="forgot_password_title_description">Enter your username or e-mail address we\'ll send you a email to reset your password </string>
+    <string name="btn_lbl_submit">submit</string>
+    <string name="title_forgot_password">FORGOT PASSWORD?</string>
+
+    <string name="email_send_sucess">\"Email send successfully to reset your password"</string>
+    <string name="register_success">you are registered successfully</string>
+    
+    <string name="title_complete_profile">PROFILE</string>
+    <string name="et_hint_mobile_number">Mobile Number </string>
+    <string name="rb_lbl_male">MALE</string>
+    <string name="rb_lbl_female">FEMALE</string>
+    <string name="btn_lbl_save">Save</string>
+
+
+    <string name="read_storage_permission_denied">oops,you just denied the permission for storage.You can also allow it from settigs</string>
+    <string name="image_selection_failed">Image Selection Is Failed</string>
+
+    <string name="err_msg_enter_mobile_number">please enter mobile number </string>
+
+
+
+</resources>

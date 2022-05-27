@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFED2173</color>
+    <color name="colorPrimaryDark">#FF222934</color>
+    <color name="colorAccent">#FFEd2173</color>
+    <color name="colorThemePink">#FFEd2173</color>
+    <color name="colorThemeOrange">#FFF4442d</color>
+    <color name="colorPrimaryText">#FF222934</color>
+    <color name="colorSecondaryText">#FF989898</color>
+
+    <color name="colorWhite">#FFFFFFFF</color>
+    <color name="colorSnackBarError">#FFF72400</color>
+    <color name="colorSnackBarSucess">#FF8BC34A</color>
+
+    <color name="colorLightGrey">#FFF1F1F1</color>
+</resources>
